@@ -5,3 +5,5 @@ vim.opt.whichwrap:append({
   ["<"] = true,
   [">"] = true,
 })
+
+vim.opt.relativenumber = false
