@@ -10,3 +10,5 @@ vim.opt.whichwrap:append({
 
 vim.opt.showmatch = true
 vim.opt.matchtime = 4
+
+vim.opt.dictionary = "/usr/share/dict/words"
