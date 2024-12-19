@@ -12,3 +12,6 @@ vim.opt.showmatch = true
 vim.opt.matchtime = 4
 
 vim.opt.dictionary = "/usr/share/dict/words"
+
+vim.opt.wrap = true
+vim.opt.textwidth = 78
