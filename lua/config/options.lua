@@ -16,3 +16,5 @@ vim.opt.dictionary = "/usr/share/dict/words"
 
 vim.opt.wrap = true
 vim.opt.textwidth = 78
+
+vim.g.autoformat = false
